@@ -12,4 +12,4 @@ You can use the following keyboard buttons in the program:
 <li>LEFT arrow : toggle the visual of the imaginary part of the series</li>
     </ul>
 </p>
-<img src="Capture.png" alt="Capture" width="400" height="400">
+<img src="Capture.png" alt="Capture" height="400">
